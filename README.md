@@ -86,7 +86,8 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
-
+### Deploy to railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/lOeLaK?referralCode=S2creative12)
 ### Deploy in your vps
 ```sh
 git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
